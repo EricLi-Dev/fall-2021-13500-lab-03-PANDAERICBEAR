@@ -1,10 +1,10 @@
 * Spring 2021 - Lab 03
 
-* Last name:
+* Last name: Li
 
-* First name:
+* First name: Eric
 
-* GitHub username:
+* GitHub username: PANDAERICBEAR
 
 * Notes:
 
@@ -61,14 +61,14 @@ Add the following two functions to ~reservoir.cpp/h~
    storage in the East basin in the 2018.
 
 Test these by calling them from main and printing out results. As with
-task A, there should be no keyboard input. 
+task A, there should be no keyboard input.
 
 *Note:* Like in Task A, you will have to read the file completely in
 these functions.
 
 ** Task C
 
-Add a function ~std::string compare_basins(std::string date)~ that 
+Add a function ~std::string compare_basins(std::string date)~ that
 will return ~East~ if the East basin was higher on the specified date
 and ~West~ if the West was higher. It should return ~Equal~ if the
 values were the same.
@@ -82,7 +82,7 @@ main.
 
 For this task, add new files, ~reverseorder.cpp~ and
 ~reverseorder.h~. You will have to modify the ~Makefile~
-appropriately. 
+appropriately.
 
 In these files create a function ~void reverse_oreder(std::string
 date1, std::string date2)~. This function should print out the West
